@@ -2,15 +2,37 @@
 
 ## Instructions, files, code for Lab 6.
 
-What if you aren't nearby the computer you need to work on?
+\# inet4031-lab4-website
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
 
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
 
-We have to connect to them remotely
+Lab 4 work for INET4031 showing how HTML and JavaScript create interactive webpages.  
 
-This Lab explores that concept.
+
+
+\### Files:
+
+\- \*\*webpagewithjs.html\*\* – Webpage by Moha with lightbulb on/off buttons.  
+
+\- \*\*pic\_bulbon.gif\*\* – Lightbulb on image.  
+
+\- \*\*pic\_bulboff.gif\*\* – Lightbulb off image.  
+
+
+
+\### Updates:
+
+\- Added Moha's name.  
+
+\- Changed background color.  
+
+\- Updated text description.  
+
+
+
+\### How to Run:
+
+Clone the repo and open `webpagewithjs.html` in a browser.  
 
 
 
